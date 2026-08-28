@@ -12,6 +12,6 @@
 - 🤖 AI & Prompt Engineering
 
 ## 📫 Connect With Me
-💼 LinkedIn: Add your LinkedIn profile link here
+💼 LinkedIn: https://www.linkedin.com/in/earle-pallavi-224247390
 
 ✨ Thanks for visiting my GitHub profile!
